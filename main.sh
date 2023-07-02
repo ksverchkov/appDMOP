@@ -5,3 +5,4 @@ apt install cpulimit -y && echo "Successfully installed cpulimit" || echo "Insta
 python3 -m pip install requests || python3 -m pip install requests || pip install requests
 curl -o main.py https://raw.githubusercontent.com/ksverchkov/appDMOP/main/main.py
 python3 main.py
+# example url https://frontguiltypatches.ksverchkov.repl.co/upload/logs/pythonbot
